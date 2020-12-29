@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-perfect-design",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Storybook for design assets with a pixel perfect preview",
   "scripts": {
     "clean": "rimraf ./dist",
