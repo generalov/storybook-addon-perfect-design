@@ -1,0 +1,8 @@
+/.cache
+/.DS_Store
+/.idea
+/dist
+/node_modules
+*.log
+*.tgz
+.env
