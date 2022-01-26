@@ -30,6 +30,8 @@ const Iframe = styled.iframe({
 const Img = styled.img({
     border: '0 none',
     objectFit: 'contain',
+    max-width: 100%;
+    max-height: 100%;
 });
 
 const Toolbar = styled.div({
